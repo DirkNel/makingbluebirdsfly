@@ -1,3 +1,3 @@
 # makingbluebirdsfly
-Maming sense of the Bluebird promise library
+Making sense of the Bluebird promise library
 by Dirk Nel
